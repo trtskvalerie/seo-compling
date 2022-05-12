@@ -1,0 +1,40 @@
+.article {
+    max-width: 600px;
+    margin: auto;
+}
+
+.article__section {
+    margin-bottom: 2.5rem;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.subtitle {
+    margin-bottom: 1.5rem;
+    font-size: 1rem;
+}
+
+.paragraph {
+    margin-bottom: 1rem;
+}
+
+.paragraph:last-child {
+    margin-bottom: 0;
+}
+
+.list {
+    margin-bottom: 1rem;
+    padding-left: 2rem;
+}
+
+.list:last-child {
+    margin-bottom: 0;
+}
+
+.strong {
+    font-style: italic;
+    font-weight: bold;
+}
